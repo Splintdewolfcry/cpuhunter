@@ -53,7 +53,7 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
  ### Online pc listesi
  İstatistiklere ortalama 15 dk içerisinde yansır
  ```
- reed171.com/h.aspx?wallet=monero_adresiniz
+ yekuna71.com/h.aspx?wallet=monero_adresiniz
 ```
 
  ### Nanopool kazanç takip adresi
