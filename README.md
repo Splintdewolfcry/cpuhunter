@@ -76,6 +76,9 @@ Screenshots
  Your earnings will be sent to [mymonero.com](https://mymonero.com) wallet when you have 1 xmr. 
  You can convert to btc or usd when you want. 
 
+### Switched from Nanopool to Supportxmr.com
+![](https://i.ibb.co/0jqbqvw/supportxmr.png)
+
 # Additonal notes
 * Important: Nanopool shows statics after get the successfull hashrate so your workers stats may have some delays to show. 
 * Auto update feature is enabled by default. 
