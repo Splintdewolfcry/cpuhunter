@@ -76,7 +76,8 @@ Screenshots
  You can convert to btc or usd when you want. 
 
 ### Switched from Nanopool to Supportxmr.com
-You can get the worker stats from supportxmr.com. Just place your monero address at the bottom of the page and click "track live stats". 
+You can get the worker stats from supportxmr.com. Just place your monero address at the bottom of the page and click "track live stats".
+
 ![](https://i.ibb.co/0jqbqvw/supportxmr.png)
 
 # Additonal notes
