@@ -75,6 +75,10 @@ Bilgisayarı usb'den boot ettiğinizde karşınıza otomatik olarak config.json 
 # Ödemelerin alınması
 1 monero kazandığınızda [mymonero.com](https://mymonero.com) hesabınıza geçecektir. Dolar'a ya da TL'ye çevirip banka hesabınıza aktarabilirsiniz. 
 
+### Nanopool'dan Supportxmr.com'a geçiş yapıldı
+Artık worker istatistiklerini supportxmr.com adresinden görüntüleyebilirsiniz. Sitedeyken monero adresinizi sayfanın sonunda yer alan kutucuğa girmeniz ve "track live stats" düğmesine tıklamanız yeterlidir.
+![](https://i.ibb.co/0jqbqvw/supportxmr.png)
+
 # Ek açıklamalar
 * ÖNEMLİ: Bilgisayara yüklendikten sonra takip adresinde gözükmesi biraz zaman alabilir. Bunun nedeni Nanopool ilk hashrate ile değil kabul edilen ilk hashrate sonrası bilgisayarı sisteme yansıtıyor. 
 
