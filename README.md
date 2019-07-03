@@ -35,7 +35,8 @@ For first use you must type your monero wallet to config.json. After that proces
 
 ### Install:
 ```
-sudo apt-get install python3 geany
+sudo apt-get install python3 python3-pip geany
+pip3 install notify2
 rm -rf /$USER/cpuhunter; git clone https://github.com/lukacci/cpuhunter /$USER/cpuhunter
 ```
 
